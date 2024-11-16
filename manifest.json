@@ -1,0 +1,10 @@
+{
+  "Name": "WalkableObjects",
+  "Author": "cyace84",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Cyace84.WalkableObjects",
+  "EntryDll": "WalkableObjects.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
